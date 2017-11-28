@@ -2,4 +2,4 @@
 >
 > A simple App that shows earthquake magnitude, place and date.
 >
-> This is an Udacity JSON parsing exercise.
+> This is an Networking, Threads and Parallelism exercise.
